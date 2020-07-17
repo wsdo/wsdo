@@ -1,4 +1,4 @@
-### Hi there, I'm Piyush👦,
+### Hi there, I'm stark wang👦,
 A 6Y/O Web designer🌈 and developer🎯 from china.
 - 🌱 I’m currently learning NodeJs, Python and ReactJs
 - 📫 How to reach me: You may follow me on [Instagram](https://instagram.com/wsd312) or [Twitter](https://twitter.com/wsd312) - [@wsd312](https://twitter.com/wsd312)
@@ -12,7 +12,7 @@ A 6Y/O Web designer🌈 and developer🎯 from china.
 
 ![stark's github stats](https://github-readme-stats.vercel.app/api?username=wsdo&show_icons=true&hide=["issues"])
 
-[![HitCount](http://hits.dwyl.com/wsdo/wsdo.svg)](http://hits.dwyl.com/piyushsuthar/wsdo)
+[![HitCount](http://hits.dwyl.com/wsdo/wsdo.svg)](http://hits.dwyl.com/wsdo/taro-kit)
 
 ---
 ⭐️ From [wsdo](https://github.com/[wsdo])
