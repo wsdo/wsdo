@@ -15,4 +15,4 @@ A 6Y/O Web designer🌈 and developer🎯 from china.
 [![HitCount](http://hits.dwyl.com/wsdo/wsdo.svg)](http://hits.dwyl.com/wsdo/wsdo)
 
 ---
-⭐️ From [wsdo](https://github.com/[wsdo])
+⭐️ From [wsdo](https://github.com/wsdo)
