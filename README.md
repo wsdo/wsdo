@@ -9,6 +9,8 @@ python php go javascript
 
 ![stark's github stats](https://github-readme-stats.vercel.app/api?username=wsdo&theme=onedark&show_icons=true&hide=["issues"])
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsdo)](https://github.com/wsdo)
+
 [![HitCount](http://hits.dwyl.com/wsdo/wsdo.svg)](http://hits.dwyl.com/wsdo/wsdo)
 
 ---
