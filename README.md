@@ -7,7 +7,7 @@ A  Web designer🌈 and developer🎯 from china.
 **Languages:**  
 python php go javascript
 
-![stark's github stats](https://github-readme-stats.vercel.app/api?username=wsdo&show_icons=true&hide=["issues"])
+![stark's github stats](https://github-readme-stats.vercel.app/api?username=wsdo&theme=onedark&show_icons=true&hide=["issues"])
 
 [![HitCount](http://hits.dwyl.com/wsdo/wsdo.svg)](http://hits.dwyl.com/wsdo/wsdo)
 
