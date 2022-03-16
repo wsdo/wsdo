@@ -10,7 +10,7 @@ python php go javascript
 ![stark's github stats](https://github-readme-stats.vercel.app/api?username=wsdo&theme=onedark&show_icons=true&hide=["issues"])
 
 <a href="https://shudong.wang">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wsdo&repo=wsdo.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsdo&layout=compact&theme=buefy&hide_border=true" />
 </a>
 
 [![HitCount](http://hits.dwyl.com/wsdo/wsdo.svg)](http://hits.dwyl.com/wsdo/wsdo)
