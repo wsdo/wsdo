@@ -15,5 +15,8 @@ python php go javascript
 
 [![HitCount](http://hits.dwyl.com/wsdo/wsdo.svg)](http://hits.dwyl.com/wsdo/wsdo)
 
+
+![Visitor Count](https://profile-counter.glitch.me/{wsdo}/count.svg)
+
 ---
 ⭐️ From [wsdo](https://github.com/wsdo)
