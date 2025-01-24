@@ -1,7 +1,7 @@
 ### Hi there, I'm stark wang👦,
 A  Web designer🌈 and developer🎯 from china.
 - 🌱 I’m currently learning NodeJs, Python Go and ReactJs
-- 📫 How to reach me: You may follow me on [blog](https://shudong.wang) or [Twitter](https://twitter.com/shudongai) - [@wsd312](https://twitter.com/shudongai)
+- 📫 How to reach me: You may follow me on [blog](https://shudong.wang) or [Twitter](https://twitter.com/shudongai) - [@shudongai](https://twitter.com/shudongai)
 - 😄 Pronouns: he/him/his
 
 **Languages:**  
