@@ -1,7 +1,7 @@
-### Hi there, I'm stark wang👦,
+### Hi there, I'm xishu👦,
 A  Web designer🌈 and developer🎯 from china.
 - 🌱 I’m currently learning NodeJs, Python Go and ReactJs
-- 📫 How to reach me: You may follow me on [blog](https://shudong.wang) or [Twitter](https://twitter.com/shudongai) - [@shudongai](https://twitter.com/shudongai)
+- 📫 How to reach me: You may follow me on [blog](https://shudong.wang) or [Twitter](https://twitter.com/iamxishu) - [@shudongai](https://twitter.com/iamxishu)
 - 😄 Pronouns: he/him/his
 
 **Languages:**  
